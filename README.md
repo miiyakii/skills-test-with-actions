@@ -15,6 +15,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 <!--
   <<< Author notes: Step 5 >>>
+
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
